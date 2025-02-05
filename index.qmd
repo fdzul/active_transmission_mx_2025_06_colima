@@ -1,3 +1,4 @@
+---
 title: "Programa de Prevención & Control del Dengue | 2025"
 format: 
   dashboard:
